@@ -4,6 +4,7 @@ public class GameCamera : MonoBehaviour
 {
 private Vector3 cameraTarget;
 private Transform target;
+
 void Start()
 {
 target = GameObject.FindGameObjectWithTag("Player").transform;
