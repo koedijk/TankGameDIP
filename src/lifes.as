@@ -6,6 +6,7 @@ public int lives = 10;
 public int bulletDamg = 1;
 public int tankDamg = 0;
 // Use this for initialization
+
 void Start()
 {
 }
