@@ -7,6 +7,7 @@ public float lightFade;
 private float lifeTime;
 private Light light;
 // Use this for initialization
+
 void Start () {
 light = GetComponent<Light>();
 }
